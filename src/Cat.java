@@ -12,6 +12,7 @@ public class Cat {
         System.out.print("Napisz coś jeszcze: ");
                 line = in.nextLine();
         System.out.println("Napisłeś również: " + line);
+        ////////
     }
     }
 
